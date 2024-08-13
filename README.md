@@ -12,7 +12,7 @@ Las competencias previas que se tuvieron para desarollar este proyecto fueron:
 - Aplicar métodos numéricos para la solución de ecuaciones diferenciales ordinarias que permitan resolver problemas que involucran sistemas dinámicos en ingeniería.
 - Entender los conceptos de la teoría de la probabilidad y estadística para organizar, clasificar, analizar e interpretar datos para la toma decisiones en aplicaciones de Ingeniería.
 
-# Asignatura donde se puede usar la actividad
+# Asignatura donde influye la actividad
 Ingeniería Biomédica Sistemas Dinámicos Biestadística Modelado Matemático
 
 # Recursos adicionales
