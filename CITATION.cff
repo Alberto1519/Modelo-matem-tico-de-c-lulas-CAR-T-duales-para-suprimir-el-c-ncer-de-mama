@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ModeloCelulasCARTdualesparasuprimirCancerdeMama.mlx
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Alberto
+    family-names: Velazco
+    name-particle: Alberto
+    email: alberto.velazco193@tectijuana.edu.mx
+  - name: Tecnológico Nacional de México
+repository-code: >-
+  https://github.com/Alberto1519/Modelo-matem-tico-de-c-lulas-CAR-T-duales-para-suprimir-el-c-ncer-de-mama
+keywords:
+  - Breast Cancer
+  - CAR-T
+  - Mathematical modelling
+  - Ordinary differential equations
+license: BSD-2-Clause
+date-released: '2024-08-12'
